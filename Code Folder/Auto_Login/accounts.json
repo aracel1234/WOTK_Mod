@@ -1,0 +1,30 @@
+[
+  {
+    "username": "Wiatnata@gmail.com",
+    "password": "gamers11",
+    "confirm_password": null,
+    "action_type": "login",
+    "server_number": "7"
+  },
+  {
+    "username": "Shirio512@yahoo.com",
+    "password": "gamers11",
+    "confirm_password": null,
+    "action_type": "login",
+    "server_number": "7"
+  },
+  {
+    "username": "Aldy_14@kharisma.ac.id",
+    "password": "gamers11",
+    "confirm_password": null,
+    "action_type": "login",
+    "server_number": "7"
+  },
+  {
+    "username": "forwuonly22@yahoo.com",
+    "password": "gamers11",
+    "confirm_password": null,
+    "action_type": "login",
+    "server_number": "7"
+  }
+]

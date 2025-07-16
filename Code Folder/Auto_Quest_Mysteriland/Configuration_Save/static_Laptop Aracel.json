@@ -1,0 +1,42 @@
+{
+    "challenge": {
+        "x": 971,
+        "y": 719
+    },
+    "crusade": {
+        "x": 0,
+        "y": 0
+    },
+    "mysteriland": {
+        "x": 0,
+        "y": 0
+    },
+    "enter_challenge": {
+        "x": 0,
+        "y": 0
+    },
+    "fight": {
+        "x": 0,
+        "y": 0
+    },
+    "quick_combat": {
+        "x": 0,
+        "y": 0
+    },
+    "ok": {
+        "x": 0,
+        "y": 0
+    },
+    "swipe_1x": {
+        "x": 0,
+        "y": 0
+    },
+    "swipe_5x": {
+        "x": 0,
+        "y": 0
+    },
+    "exit": {
+        "x": 0,
+        "y": 0
+    }
+}

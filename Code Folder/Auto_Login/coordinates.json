@@ -1,0 +1,50 @@
+{
+  "login_username": {
+    "x": 620,
+    "y": 514
+  },
+  "login_password": {
+    "x": 612,
+    "y": 540
+  },
+  "login_button": {
+    "x": 629,
+    "y": 594
+  },
+  "signup_button": {
+    "x": 726,
+    "y": 633
+  },
+  "reg_username": {
+    "x": 1048,
+    "y": 310
+  },
+  "reg_password": {
+    "x": 1122,
+    "y": 353
+  },
+  "reg_confirm": {
+    "x": 1098,
+    "y": 407
+  },
+  "reg_button": {
+    "x": 1128,
+    "y": 488
+  },
+  "play_now": {
+    "x": 709,
+    "y": 476
+  },
+  "address_bar": {
+    "x": 280,
+    "y": 52
+  },
+  "id_button": {
+    "x": 1378,
+    "y": 111
+  },
+  "logout_button": {
+    "x": 1354,
+    "y": 170
+  }
+}
