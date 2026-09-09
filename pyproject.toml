@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wotk-mod"
+version = "2.0.0"
+description = "Desktop automation control center for Clash of Three Kingdoms workflows"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "WOTK Mod Contributors" }]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Win32 (MS Windows)",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Desktop Environment",
+]
+dependencies = [
+  "numpy>=1.26,<3",
+  "opencv-python>=4.9,<5",
+  "Pillow>=10,<13",
+  "platformdirs>=4,<5",
+  "psutil>=5.9,<8",
+  "PyAutoGUI>=0.9.54,<1",
+  "PyGetWindow>=0.0.9,<1",
+  "pynput>=1.7.7,<2",
+  "pytesseract>=0.3.10,<1",
+  "pywin32>=306; platform_system == 'Windows'",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8,<10",
+  "ruff>=0.8,<1",
+  "pyinstaller>=6,<7",
+]
+
+[project.scripts]
+wotk-mod = "wotk.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+exclude = ["build", "dist"]
+
+[tool.ruff.lint]
+select = ["E9", "F"]

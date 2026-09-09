@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "browser_executable": "C:\\Program Files (x86)\\UCBrowser\\Application\\UCBrowser.exe",
+    "browser_window_pattern": "UC",
+    "landing_url": "https://www.heyshell.com/cot/",
+    "startup_delay": 5.0,
+    "navigation_delay": 2.0,
+    "action_delay": 0.6
+  },
+  "coordinates": {
+    "login_username": {
+      "x": 0,
+      "y": 0
+    },
+    "login_password": {
+      "x": 0,
+      "y": 0
+    },
+    "login_button": {
+      "x": 0,
+      "y": 0
+    },
+    "signup_button": {
+      "x": 0,
+      "y": 0
+    },
+    "reg_username": {
+      "x": 0,
+      "y": 0
+    },
+    "reg_password": {
+      "x": 0,
+      "y": 0
+    },
+    "reg_confirm": {
+      "x": 0,
+      "y": 0
+    },
+    "reg_button": {
+      "x": 0,
+      "y": 0
+    },
+    "play_now": {
+      "x": 0,
+      "y": 0
+    },
+    "address_bar": {
+      "x": 0,
+      "y": 0
+    },
+    "id_button": {
+      "x": 0,
+      "y": 0
+    },
+    "logout_button": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}

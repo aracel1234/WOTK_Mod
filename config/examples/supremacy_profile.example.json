@@ -1,0 +1,110 @@
+{
+  "settings": {
+    "max_loops": 10,
+    "initial_phase_loops": 6,
+    "total_heroes": 8,
+    "heroes_per_battle": 4,
+    "max_hero_usage": 6,
+    "selected_challenge": 1
+  },
+  "action_delay": 1.5,
+  "hero_delay": 0.5,
+  "coordinates": {
+    "Challenge_Setup": {
+      "x": 0,
+      "y": 0
+    },
+    "Crusade": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Loop": {
+      "x": 0,
+      "y": 0
+    },
+    "Confirm": {
+      "x": 0,
+      "y": 0
+    },
+    "Fight": {
+      "x": 0,
+      "y": 0
+    },
+    "Quick_Combat": {
+      "x": 0,
+      "y": 0
+    },
+    "OK": {
+      "x": 0,
+      "y": 0
+    },
+    "Claim": {
+      "x": 0,
+      "y": 0
+    },
+    "Start": {
+      "x": 0,
+      "y": 0
+    },
+    "OK_After_Start": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Battle_1": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Battle_2": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Battle_3": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Battle_4": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Battle_5": {
+      "x": 0,
+      "y": 0
+    },
+    "Challenge_Battle_6": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_1": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_2": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_3": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_4": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_5": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_6": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_7": {
+      "x": 0,
+      "y": 0
+    },
+    "Hero_8": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}

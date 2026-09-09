@@ -1,0 +1,18 @@
+{
+  "sandboxie_settings": {
+    "sandboxie_path": "C:\\Program Files\\Sandboxie-Plus\\Start.exe",
+    "max_instances": 5,
+    "instance_startup_delay": 30
+  },
+  "global_settings": {
+    "base_delay": 1.0,
+    "click_timeout": 5.0,
+    "max_retries": 3,
+    "emergency_hotkey": "ctrl+shift+q"
+  },
+  "threading_config": {
+    "thread_pool_size": 5,
+    "thread_check_interval": 10,
+    "max_thread_lifetime": 3600
+  }
+}

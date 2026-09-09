@@ -1,0 +1,40 @@
+{
+  "instance_info": {
+    "instance_id": 1,
+    "sandbox_name": "ClashBot_Instance_1",
+    "account_name": "Account_001",
+    "farming_mode": "individual"
+  },
+  "game_settings": {
+    "game_executable": "C:\\Games\\Clash\\clash.exe",
+    "window_title_pattern": "Clash of Three Kingdoms",
+    "window_index": 0,
+    "expected_window_size": [1280, 720],
+    "offset_correction": [0, 0]
+  },
+  "coordinates": {
+    "challenge_btn": [0, 0],
+    "crusade_btn": [0, 0],
+    "individual_btn": [0, 0],
+    "supremacy_btn": [0, 0],
+    "mysteriland_btn": [0, 0],
+    "enemy_coords": [[0, 0]],
+    "arena_sup_coords": [[0, 0]],
+    "arena_myst_coords": [[0, 0]],
+    "fight_btn": [0, 0],
+    "quick_btn": [0, 0],
+    "ok_btn": [0, 0],
+    "claim_btn": [0, 0],
+    "start_btn": [0, 0],
+    "confirm_btn": [0, 0],
+    "challenge_btn_sup": [0, 0]
+  },
+  "timing_settings": {
+    "base_delay": 1.5,
+    "fight_delay": 3.0,
+    "claim_delay": 2.0,
+    "navigation_delay": 1.0
+  },
+  "max_cycles": 1,
+  "cycle_delay": 10.0
+}

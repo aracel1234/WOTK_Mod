@@ -1,0 +1,149 @@
+{
+  "settings": {
+    "account_count": 2,
+    "target_color": "merah",
+    "account_colors": [
+      "hijau",
+      "biru"
+    ],
+    "city_route": [
+      "Dongxing",
+      "Mianzhu",
+      "WeiXian"
+    ],
+    "cycle_minutes": 31.0,
+    "march_enabled": true,
+    "max_march_hops": 20,
+    "assault_retries": 3,
+    "post_cycle_pause": 3.0,
+    "use_general_threshold": false,
+    "march_threshold": 3
+  },
+  "runtime": {
+    "default_delay": 0.5,
+    "combat_delay": 2.0,
+    "tab_delay": 0.8,
+    "march_check_interval_seconds": 300.0,
+    "tesseract_cmd": "",
+    "max_cycles": null,
+    "initialize_maps": true
+  },
+  "coordinates": {
+    "bendera_biru": {
+      "x": 0,
+      "y": 0
+    },
+    "search": {
+      "x": 0,
+      "y": 0
+    },
+    "field_search": {
+      "x": 0,
+      "y": 0
+    },
+    "konfirmasi_search": {
+      "x": 0,
+      "y": 0
+    },
+    "nama_kota": {
+      "x": 0,
+      "y": 0
+    },
+    "fight": {
+      "x": 0,
+      "y": 0
+    },
+    "dispatch": {
+      "x": 0,
+      "y": 0
+    },
+    "minimize": {
+      "x": 0,
+      "y": 0
+    },
+    "watch": {
+      "x": 0,
+      "y": 0
+    },
+    "march": {
+      "x": 0,
+      "y": 0
+    },
+    "back": {
+      "x": 0,
+      "y": 0
+    },
+    "exit": {
+      "x": 0,
+      "y": 0
+    },
+    "assault_search": {
+      "x": 0,
+      "y": 0
+    },
+    "assault_field_search": {
+      "x": 0,
+      "y": 0
+    },
+    "assault_confirm_search": {
+      "x": 0,
+      "y": 0
+    },
+    "assault_city": {
+      "x": 0,
+      "y": 0
+    },
+    "assault_button": {
+      "x": 0,
+      "y": 0
+    },
+    "march_confirm": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "ocr_regions": {
+    "watch_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "select_city_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "defender_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "no_hero_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "assault_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "player_general_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "enemy_general_area": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  }
+}

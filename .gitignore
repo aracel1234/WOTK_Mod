@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Build
+build/
+dist/
+*.spec~
+
+# Runtime/user data
+*.log
+logs/
+accounts.json
+accounts*.json
+.env
+.env.*
+!.env.example
+
+# User-specific calibration and local configuration
+config/local/
+configs/
+coordinates*.json
+Area_OCR_*.json
+Koordinat_Statis_*.json
+
+# Large third-party binaries: install Tesseract separately
+Tesseract-OCR/
+tesseract/
+*.dll
+*.exe
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,35 @@
+WOTK Mod 2.0 - Build Validation
+UTC: 2026-09-09 22:06:39
+
+1) Compile
+PASS: compileall
+
+2) Unit tests
+................                                                         [100%]
+
+3) JSON examples
+PASS: parsed 10 JSON file(s)
+
+4) Secret-oriented repository scan
+PASS: no email-like strings found
+PASS: no EXE/DLL binaries bundled
+
+5) Setup verifier in build environment
+WOTK Mod 2.0 setup verification
+
+[WARN] Operating system - Linux-6.18.35-x86_64-with-glibc2.41
+[OK  ] Python - 3.13.5
+[OK  ] Python module pyautogui - desktop automation
+[OK  ] Python module pygetwindow - window discovery
+[OK  ] Python module PIL - screenshots/image handling
+[OK  ] Python module numpy - OCR preprocessing
+[OK  ] Python module cv2 - OCR preprocessing
+[OK  ] Python module pytesseract - OCR bridge
+[OK  ] Python module platformdirs - user config paths
+[WARN] Python module pynput - global emergency hotkey
+[OK  ] Tesseract OCR - /usr/bin/tesseract
+[WARN] Sandboxie-Plus default path - C:\Program Files\Sandboxie-Plus\Start.exe
+[OK  ] Git - /usr/bin/git
+
+Warnings are expected on non-Windows development/CI machines.
+All shipped coordinates are templates; local calibration is still required.

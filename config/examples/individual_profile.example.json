@@ -1,0 +1,127 @@
+{
+  "stages": 10,
+  "delays": {
+    "default": 0.5,
+    "navigation": 1.0,
+    "combat": 2.0,
+    "reward": 1.5
+  },
+  "coordinates": {
+    "challenge_button": {
+      "x": 0,
+      "y": 0
+    },
+    "crusade_button": {
+      "x": 0,
+      "y": 0
+    },
+    "individual_button": {
+      "x": 0,
+      "y": 0
+    },
+    "fight_button": {
+      "x": 0,
+      "y": 0
+    },
+    "quick_combat": {
+      "x": 0,
+      "y": 0
+    },
+    "ok_button": {
+      "x": 0,
+      "y": 0
+    },
+    "claim_button": {
+      "x": 0,
+      "y": 0
+    },
+    "reset_button": {
+      "x": 0,
+      "y": 0
+    },
+    "exit_button": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_1": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_2": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_3": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_4": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_5": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_6": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_7": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_8": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_9": {
+      "x": 0,
+      "y": 0
+    },
+    "stage_10": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_1": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_2": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_3": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_4": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_5": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_6": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_7": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_8": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_9": {
+      "x": 0,
+      "y": 0
+    },
+    "reward_10": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}
